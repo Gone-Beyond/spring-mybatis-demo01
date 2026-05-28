@@ -1,0 +1,7 @@
+﻿target/
+.idea/
+*.iml
+.env
+*.env
+src/main/resources/application-dev.yml
+src/main/resources/oss.properties
